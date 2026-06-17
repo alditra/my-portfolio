@@ -45,7 +45,7 @@ export default function HeroSection() {
           transition={{ delay: 0.2, duration: 0.6 }}
         >
           <span className="bg-gradient-to-r from-gray-900 via-gray-700 to-gray-900 dark:from-white dark:via-gray-100 dark:to-white bg-clip-text text-transparent z-10">
-            Zaini Muhtarom
+            Alif Dwi Putra
           </span>
         </motion.h1>
 
@@ -59,7 +59,7 @@ export default function HeroSection() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.8, duration: 0.6 }}
         >
-          Building high-performance web applications with clean code, scalable architecture, and user-centric design.
+          Building high-performance interactive games and web applications with clean code, scalable architecture, user-centric design.
         </motion.p>
 
         {/* Social Links */}
@@ -70,10 +70,10 @@ export default function HeroSection() {
           transition={{ delay: 1.0 }}
         >
           {[
-            { href: "https://github.com/zennmhtr",       icon: "simple-icons:github",       label: "GitHub",    color: "hover:text-gray-900 dark:hover:text-white" },
-            { href: "https://linkedin.com/in/zennmhtr",  icon: "skill-icons:linkedin",       label: "LinkedIn",  color: "hover:text-blue-600" },
-            { href: "mailto:zainimhtrm@gmail.com",       icon: "material-icon-theme:email",  label: "Email",     color: "hover:text-green-600" },
-            { href: "https://instagram.com/zennmhtr",    icon: "skill-icons:instagram",      label: "Instagram", color: "hover:text-pink-600" },
+            { href: "https://github.com/alditra",       icon: "simple-icons:github",       label: "GitHub",    color: "hover:text-gray-900 dark:hover:text-white" },
+            { href: "https://www.linkedin.com/in/alif-dwi/",  icon: "skill-icons:linkedin",       label: "LinkedIn",  color: "hover:text-blue-600" },
+            { href: "mailto:alditra05@gmail.com",       icon: "material-icon-theme:email",  label: "Email",     color: "hover:text-green-600" },
+            { href: "https://instagram.com/alditra26",    icon: "skill-icons:instagram",      label: "Instagram", color: "hover:text-pink-600" },
           ].map((link) => (
             <motion.div key={link.label} whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
               <Link
@@ -116,7 +116,7 @@ export default function HeroSection() {
         >
           <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
             <Link
-              href="mailto:zainimhtrm@gmail.com"
+              href="mailto:alifdwiputra05@gmail.com"
               className="inline-flex items-center gap-2 px-6 py-3 bg-white hover:bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 border-2 border-gray-300 hover:border-gray-400 dark:border-gray-600 dark:hover:border-gray-500 rounded-xl font-medium transition-all duration-300 shadow-md hover:shadow-lg text-sm"
             >
               <Icon icon="solar:mailbox-bold-duotone" width={18} height={18} />
@@ -126,7 +126,7 @@ export default function HeroSection() {
 
           <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
             <Link
-              href="/Curriculum Vitae (CV) - Zaini Muhtarom.pdf"
+              href="/ALIF DWI PUTRA-resume (6).pdf"
               className="inline-flex items-center gap-2 px-6 py-3 bg-white hover:bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 border-2 border-gray-300 hover:border-gray-400 dark:border-gray-600 dark:hover:border-gray-500 rounded-xl font-medium transition-all duration-300 shadow-md hover:shadow-lg text-sm"
             >
               <Icon icon="solar:download-outline" width={18} height={18} />

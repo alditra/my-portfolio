@@ -55,7 +55,7 @@ export default function ContactSection() {
             timeZone: "Asia/Jakarta",
           }),
           year: new Date().getFullYear(),
-          to_email: "zainimhtrm@gmail.com",
+          to_email: "alditra05@gmail.com",
         },
         publicKey,
       );
@@ -261,7 +261,7 @@ export default function ContactSection() {
                   </div>
                   <p className="text-red-600 text-left dark:text-red-500 text-sm mt-1">
                     Please try again or contact me directly at
-                    zainimhtrm@gmail.com
+                    alditra05@gmail.com
                   </p>
                   {/* add a button to close the message */}
                   <button

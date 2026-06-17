@@ -114,7 +114,7 @@ export default function OverviewSection() {
                         className="w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12"
                         style={{ display: 'inline-block' }}
                       />
-                      Hello, I&apos;m Zaini Muhtarom
+                      Hello, I&apos;m Alif Dwi Putra
                     </h3>
                     <p className="text-base md:text-lg lg:text-xl text-gray-600 dark:text-gray-300 leading-relaxed mb-4 md:mb-6">
                       A passionate <span className="font-bold text-blue-600 dark:text-blue-400">Full-Stack Web Developer</span> with
@@ -143,7 +143,7 @@ export default function OverviewSection() {
                       Core Technologies
                     </h4>
                     <div className="flex flex-wrap gap-2 md:gap-3">
-                      {["Laravel", "PHP", "TypeScript", "Tailwind CSS", "MySQL", "CodeIgniter", "REST API", "JavaScript", "HTML5", "CSS3", "Git"].map((skill, index) => (
+                      {["Laravel", "PHP", "TypeScript", "Tailwind CSS", "MySQL", "CodeIgniter", "C#", "JavaScript", "HTML5", "CSS3", "Git", "Unity"].map((skill, index) => (
                         <motion.span
                           key={skill}
                           initial={{ opacity: 0, scale: 0 }}
@@ -166,23 +166,25 @@ export default function OverviewSection() {
                 <motion.div
                   variants={itemVariants}
                   whileHover={{ scale: 1.02, y: -5 }}
-                  className="p-4 md:p-6 rounded-xl md:rounded-2xl bg-gradient-to-br from-green-50/80 to-green-100/50 dark:from-green-950/30 dark:to-green-900/20 backdrop-blur-sm border border-green-200/50 dark:border-green-800/30 shadow-xl flex flex-col"
+                  className="p-4 md:p-6 rounded-xl md:rounded-2xl bg-gradient-to-br from-blue-50/80 to-blue-100/50 dark:from-blue-950/30 dark:to-blue-900/20 backdrop-blur-sm border border-blue-200/50 dark:border-blue-800/30 shadow-xl flex flex-col"
                 >
                   <div className="flex items-start gap-3 md:gap-4 mb-3 md:mb-4">
-                    <div className="p-2 md:p-3 bg-green-500 rounded-lg md:rounded-xl shadow-lg">
+                    <div className="p-2 md:p-3 bg-blue-500 rounded-lg md:rounded-xl shadow-lg">
                       <Icon icon="mdi:company" className="text-white w-5 md:w-6 h-5 md:h-6" width={24} height={24} />
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900 dark:text-white text-base md:text-lg">Web Developer (Intern)</h4>
-                      <p className="text-green-600 dark:text-green-400 font-medium text-sm md:text-base">PT. Dharma Controlcable Indonesia II</p>
-                      <p className="text-xs md:text-sm text-gray-600 dark:text-gray-400 mt-1">May 2026 — Now</p>
+                      <h4 className="font-bold text-gray-900 dark:text-white text-base md:text-lg">Laravel Developer (Intern)</h4>
+                      <p className="text-blue-600 dark:text-blue-400 font-medium text-sm md:text-base">PT. Agung Tirta Lestari</p>
+                      <p className="text-xs md:text-sm text-gray-600 dark:text-gray-400 mt-1">Oct 2024 — Dec 2024</p>
                     </div>
                   </div>
                   <p className="text-gray-700 dark:text-gray-300 text-xs md:text-sm leading-relaxed mb-2 md:mb-3 flex-1">
+                    Developed scalable Laravel-based attendance and performance appraisal systems, integrating facial recognition for automated clock-in/out validation
+                    and AHP algorithm for employee performance evaluation.
                   </p>
                   <div className="flex items-center gap-2 text-xs md:text-sm mt-auto">
-                    <Icon icon="solar:shield-check-bold" className="text-blue-500 w-3 md:w-4 h-3 md:h-4" width={16} height={16} />
-                    <span className="font-semibold text-blue-600 dark:text-blue-400">Web Developer</span>
+                    <Icon icon="solar:star-bold" className="text-yellow-500 w-3 md:w-4 h-3 md:h-4" width={16} height={16} />
+                    <span className="font-semibold text-green-600 dark:text-green-400">Top Rated • 91% Success Score</span>
                   </div>
                 </motion.div>
 
@@ -196,9 +198,9 @@ export default function OverviewSection() {
                       <Icon icon="mdi:company" className="text-white w-5 md:w-6 h-5 md:h-6" width={24} height={24} />
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900 dark:text-white text-base md:text-lg">Laravel Developer (Intern)</h4>
-                      <p className="text-blue-600 dark:text-blue-400 font-medium text-sm md:text-base">PT. Agung Tirta Lestari</p>
-                      <p className="text-xs md:text-sm text-gray-600 dark:text-gray-400 mt-1">Oct 2024 — Dec 2024</p>
+                      <h4 className="font-bold text-gray-900 dark:text-white text-base md:text-lg">Game Developer (Intern)</h4>
+                      <p className="text-blue-600 dark:text-blue-400 font-medium text-sm md:text-base">PT Kinema Systrans multimedia</p>
+                      <p className="text-xs md:text-sm text-gray-600 dark:text-gray-400 mt-1">Feb 2024 — Jun 2024</p>
                     </div>
                   </div>
                   <p className="text-gray-700 dark:text-gray-300 text-xs md:text-sm leading-relaxed mb-2 md:mb-3 flex-1">
@@ -224,7 +226,7 @@ export default function OverviewSection() {
               </h4>
               <div className="space-y-3">
                 <motion.a
-                  href="mailto:zainimhtrm@gmail.com"
+                  href="mailto:alifdwiputra05@gmail.com"
                   whileHover={{ scale: 1.02, x: 4 }}
                   whileTap={{ scale: 0.98 }}
                   className="flex items-center gap-3 p-3 rounded-lg bg-white/70 dark:bg-gray-800/30 hover:bg-white/90 dark:hover:bg-gray-800/50 transition-all duration-300 group border border-white/20 dark:border-gray-700/30"
@@ -233,7 +235,7 @@ export default function OverviewSection() {
                     <Icon icon="solar:letter-bold" className="text-white w-4 h-4" width={16} height={16} />
                   </div>
                   <div>
-                    <div className="text-sm font-bold text-gray-900 dark:text-white break-all">zainimhtrm@gmail.com</div>
+                    <div className="text-sm font-bold text-gray-900 dark:text-white break-all">alifdwiputra05@gmail.com</div>
                   </div>
                 </motion.a>
 
@@ -245,7 +247,7 @@ export default function OverviewSection() {
                     <Icon icon="solar:global-bold" className="text-white w-4 h-4" width={16} height={16} />
                   </div>
                   <div>
-                    <div className="text-sm font-bold text-gray-900 dark:text-white">zainimuhtarom.vercel.app</div>
+                    <div className="text-sm font-bold text-gray-900 dark:text-white">alifdwiputra.vercel.app</div>
                   </div>
                 </motion.div>
 

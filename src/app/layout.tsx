@@ -7,13 +7,13 @@ import "./globals.css";
 const inter = Space_Grotesk({ subsets: ["latin"], weight: ["500", "600", "700"] });
 
 export const metadata: Metadata = {
-  title: "Zaini Muhtarom - Web Developer",
+  title: "Alif Dwi Putra - Web Developer",
   description: " Passionate about building scalable web applications, optimizing system performance, and delivering user-centric digital solutions with intuitive interfaces.",
-  keywords: "Zaini Muhtarom, Full Web Developer, Laravel, PHP, TypeScript, Web Development, Portfolio",
-  authors: [{ name: "Zaini Muhtarom" }],
+  keywords: "Alif Dwi Putra, Full Web Developer, Laravel, PHP, TypeScript, Web Development, Portfolio",
+  authors: [{ name: "Alif Dwi Putra" }],
   openGraph: {
-    title: "Zaini Muhtarom - Web Developer",
-    description: "Portfolio of Zaini Muhtarom, a passionate full-web developer specializing in modern web technologies.",
+    title: "Alif Dwi Putra - Web Developer",
+    description: "Portfolio of Alif Dwi Putra, a passionate full-web developer specializing in modern web technologies.",
     type: "website",
   },
 };

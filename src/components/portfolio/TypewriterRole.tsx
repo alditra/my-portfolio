@@ -12,6 +12,7 @@ export default function TypewriterRole() {
     "Web Developer",
     "Software Engineer",
     "Full-Stack Web Developer",
+    "Game Developer",
   ];
 
   // Typewriter effect

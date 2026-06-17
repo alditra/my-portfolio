@@ -15,7 +15,7 @@ export default function AboutSection() {
       <h2 className="text-2xl font-bold mb-6">About</h2>
       <div className="max-w-none">
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-          Hello, World! I am Zaini Muhtarom — a passionate Full Web Developer 
+          Hello, World! I am Alif Dwi Putra — a passionate Full Web Developer 
           dedicated to building high-performance, user-centric software with intuitive and engaging designs.
         </p>
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">

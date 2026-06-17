@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import SectionHeader from "./SectionHeader";
 
 const experience = [
-{
+  {
     role: "Web Developer (Intern)",
     company: "PT. Dharma Controlcable Indonesia II",
     period: "May 2026 — Now",
@@ -27,31 +27,31 @@ const experience = [
     companyColor: "from-orange-500 to-orange-600",
     description: "Developed modular Laravel features and optimized front-end components to improve system scalability and user engagement in a fast-paced development environment.",
     achievements: [
-       "Developed secure employee attendance system integrating facial recognition and GPS validation, supporting simultaneous check-ins for 25% more concurrent users",
-       "Optimized responsive front-end for attendance tracking and performance appraisal modules, resulting in 40% boost in HR team engagement and mobile usage",
-       "Streamlined AHP algorithm implementation across API and database layers, improving evaluation data accuracy by 30% and reducing processing time",
-       "Identified and resolved 20% of bugs in facial detection and scoring logic, ensuring reliable clock-in/out and performance calculations",
-       "Integrated facial recognition for automated attendance and AHP-based multi-criteria decision system for objective employee performance assessment"
+      "Developed secure employee attendance system integrating facial recognition and GPS validation, supporting simultaneous check-ins for 25% more concurrent users",
+      "Optimized responsive front-end for attendance tracking and performance appraisal modules, resulting in 40% boost in HR team engagement and mobile usage",
+      "Streamlined AHP algorithm implementation across API and database layers, improving evaluation data accuracy by 30% and reducing processing time",
+      "Identified and resolved 20% of bugs in facial detection and scoring logic, ensuring reliable clock-in/out and performance calculations",
+      "Integrated facial recognition for automated attendance and AHP-based multi-criteria decision system for objective employee performance assessment"
     ],
     technologies: ["Laravel", "Blade", "PHP", "JavaScript", "HTML", "CSS", "REST API", "MySQL", "Facial Recognition", "GPS Integration", "AHP Algorithm", "Prototype Development", "Employee"]
   },
 
   {
-    role: "PHP Developer (Practical Work)",
-    company: "SMK Bina Karya 2 Karawang",
-    period: "May 2024 — Aug 2024",
-    type: "Practical Work",
-    companyIcon: "mdi:school",
-    companyColor: "from-green-500 to-green-600",
-    description: "Designed and developed an online Student Admission System using CodeIgniter 3 with scalable architecture to streamline enrollment processes.",
+    role: "Game Developer (Intern)",
+    company: "MushroomMallow Studio",
+    period: "Oct 2024 — Jan 2025",
+    type: "Internship",
+    companyIcon: "mdi:company",
+    companyColor: "from-orange-500 to-orange-600",
+    description: "Developed modular game features and optimized front-end components to improve system scalability and user engagement in a fast-paced development environment.",
     achievements: [
-      "Designed and developed an online Student Admission System using CodeIgniter 3 with scalable architecture",
-      "Implemented workflows for registration, verification, admin review, and data synchronization",
-      "Deployed the system to streamline enrollment for 250+ students",
-      "Performed debugging, optimization, testing, and security checks to ensure smooth performance",
-      "Prepared technical documentation to support maintenance and expansion"
+      "Developed secure employee attendance system integrating facial recognition and GPS validation, supporting simultaneous check-ins for 25% more concurrent users",
+      "Optimized responsive front-end for attendance tracking and performance appraisal modules, resulting in 40% boost in HR team engagement and mobile usage",
+      "Streamlined AHP algorithm implementation across API and database layers, improving evaluation data accuracy by 30% and reducing processing time",
+      "Identified and resolved 20% of bugs in facial detection and scoring logic, ensuring reliable clock-in/out and performance calculations",
+      "Integrated facial recognition for automated attendance and AHP-based multi-criteria decision system for objective employee performance assessment"
     ],
-    technologies: ["CodeIgniter 3", "PHP", "MySQL", "JavaScript", "HTML", "CSS", "REST API", "System Admission Registration", "New Student"]
+    technologies: ["Laravel", "Blade", "PHP", "JavaScript", "HTML", "CSS", "REST API", "MySQL", "Facial Recognition", "GPS Integration", "AHP Algorithm", "Prototype Development", "Employee"]
   }
 ];
 
