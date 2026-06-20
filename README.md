@@ -1,6 +1,6 @@
 # 🚀 Alif Dwi Putra - Portfolio
 
-A stunning, modern portfolio website built with cutting-edge technologies and beautiful animations inspired by [Zaini Muhtarom]([https://github.com/lzennmhtr/my-portfoliov2])
+A stunning, modern portfolio website built with cutting-edge technologies and beautiful animations inspired by [Zaini Muhtarom](https://github.com/lzennmhtr/my-portfoliov2)
 
 ![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-brightgreen)
 ![Next.js](https://img.shields.io/badge/Next.js-15.3-black)
