@@ -1,6 +1,6 @@
-# 🚀 Zaini Muhtarom - Portfolio
+# 🚀 Alif Dwi Putra - Portfolio
 
-A stunning, modern portfolio website built with cutting-edge technologies and beautiful animations inspired by [Muhammad Ramazan](https://github.com/lightify97/portfolio)
+A stunning, modern portfolio website built with cutting-edge technologies and beautiful animations inspired by [Zaini Muhtarom]([https://github.com/lzennmhtr/my-portfoliov2])
 
 ![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-brightgreen)
 ![Next.js](https://img.shields.io/badge/Next.js-15.3-black)
@@ -80,7 +80,7 @@ A stunning, modern portfolio website built with cutting-edge technologies and be
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/zennmhtr/my-portfoliov2.git
+   git clone https://github.com/alditra/my-portfolio.git
    cd my-portfoliov2
    ```
 
@@ -248,15 +248,15 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/lzennmhtr/my-portfoliov2/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/alditra/my-portfolio/issues).
 
 ## 👨‍💻 Author
 
 **Zaini Muhtarom**
 
-- GitHub: [@zennmhtr](https://github.com/zennmhtr)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/zennmhtr)
-- Email: zainimhtrm@gmail.com
+- GitHub: [@alditra](https://github.com/alditra)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/alif-dwi)
+- Email: alifdwiputra05@gmail.com
 
 ## 🙏 Acknowledgments
 
